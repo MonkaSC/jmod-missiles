@@ -1,3 +1,5 @@
-# jmod missiles
-includes a HEAT (anti tank) and HE (anti air) missile, one that targets simfphys, and one that targets wac/lfs.
-the anti air missile uses proportional navigation.
+# jmod extras
+white phosphorus bombs for gaza roleplay
+tear gas bombs for blm protester roleplay
+HEAT missiles for anti tank (targets simfphys)
+HE for anti air (targets lfs and wac)
